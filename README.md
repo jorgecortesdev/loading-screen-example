@@ -3,7 +3,7 @@
 This repository is a very basic example of a css loading screen.
 
 ## Example
-To see this code in action go to: https://xorth.github.io/loading-screen-example/
+To see this code in action go to: https://jorgecortesdev.github.io/loading-screen-example/
 
 ## Run the example locally
 
